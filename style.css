@@ -1,0 +1,22 @@
+body{
+    background-color: #FA9427;
+    color: black;
+}
+header{
+    background-color: yellow;
+}
+main{
+    
+    background-color: blue;
+    color: aliceblue;
+}
+figure{
+    align-items: center;
+    background-color: white;
+}
+section {
+    background-color: springgreen;
+}
+article{
+    background-color: red;
+}
